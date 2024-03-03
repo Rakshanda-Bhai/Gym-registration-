@@ -1,0 +1,31 @@
+form{
+    display:flex;
+    flex-direction: column;
+    height: 500px;
+    width: 400px;
+    border: 1px solid white;
+    align-items: center;
+    margin: auto;
+    background-color: rgba(0, 0,0, 0.5);
+    border-radius: 25px;
+    margin-top: 50px;
+}
+body{
+    background:url('https://drive.google.com/drive/recent?lfhs=2') no-repeat center center/cover;
+    
+}
+  form h1{
+    color: white;
+    font-size: 2rem;
+    border-bottom:4px solid ;
+    margin: 50px;
+  }
+  .box{
+    padding: 12px;
+  }
+  h3{
+    color: white;
+  }
+  .background{
+    filter: blur(20px);
+  }
